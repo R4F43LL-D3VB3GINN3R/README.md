@@ -4,7 +4,7 @@
 
 💞️ I’m looking to collaborate on open-source projects to enhance my programming skills and contribute to the developer community.
 
-📫 You can reach me via email at rafalbuquerquecra@gmail.com or find me on LinkedIn at [(https://www.linkedin.com/in/rafael-lopes-b8606a272/)].
+📫 You can reach me via email at rafalbuquerquecra@gmail.com or find me on LinkedIn at [https://www.linkedin.com/in/rafael-albuquerque-b8606a272/].
 
 <!---
 R4F43LL-D3VB3GINN3R/R4F43LL-D3VB3GINN3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
